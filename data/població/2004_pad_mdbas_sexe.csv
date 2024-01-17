@@ -1,0 +1,2137 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,AEB,Seccio_Censal,Valor,SEXE
+2004-01-01,1,Ciutat Vella,1,el Raval,1,1001,558,1
+2004-01-01,1,Ciutat Vella,1,el Raval,1,1001,723,2
+2004-01-01,1,Ciutat Vella,1,el Raval,1,1002,737,1
+2004-01-01,1,Ciutat Vella,1,el Raval,1,1002,872,2
+2004-01-01,1,Ciutat Vella,1,el Raval,2,1003,1427,1
+2004-01-01,1,Ciutat Vella,1,el Raval,2,1003,1670,2
+2004-01-01,1,Ciutat Vella,1,el Raval,2,1004,1322,1
+2004-01-01,1,Ciutat Vella,1,el Raval,2,1004,1552,2
+2004-01-01,1,Ciutat Vella,1,el Raval,3,1005,1057,1
+2004-01-01,1,Ciutat Vella,1,el Raval,3,1005,1303,2
+2004-01-01,1,Ciutat Vella,1,el Raval,3,1006,901,1
+2004-01-01,1,Ciutat Vella,1,el Raval,3,1006,1145,2
+2004-01-01,1,Ciutat Vella,1,el Raval,3,1007,777,1
+2004-01-01,1,Ciutat Vella,1,el Raval,3,1007,1222,2
+2004-01-01,1,Ciutat Vella,1,el Raval,4,1008,1212,1
+2004-01-01,1,Ciutat Vella,1,el Raval,4,1008,1916,2
+2004-01-01,1,Ciutat Vella,1,el Raval,4,1009,919,1
+2004-01-01,1,Ciutat Vella,1,el Raval,4,1009,1102,2
+2004-01-01,1,Ciutat Vella,1,el Raval,4,1010,976,1
+2004-01-01,1,Ciutat Vella,1,el Raval,4,1010,1357,2
+2004-01-01,1,Ciutat Vella,1,el Raval,5,1011,1413,1
+2004-01-01,1,Ciutat Vella,1,el Raval,5,1011,1870,2
+2004-01-01,1,Ciutat Vella,1,el Raval,5,1012,844,1
+2004-01-01,1,Ciutat Vella,1,el Raval,5,1012,904,2
+2004-01-01,1,Ciutat Vella,1,el Raval,5,1013,624,1
+2004-01-01,1,Ciutat Vella,1,el Raval,5,1013,567,2
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1014,870,1
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1014,898,2
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1015,1117,1
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1015,1113,2
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1016,1182,1
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1016,1003,2
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1017,1218,1
+2004-01-01,1,Ciutat Vella,1,el Raval,6,1017,1288,2
+2004-01-01,1,Ciutat Vella,1,el Raval,7,1018,675,1
+2004-01-01,1,Ciutat Vella,1,el Raval,7,1018,654,2
+2004-01-01,1,Ciutat Vella,1,el Raval,7,1019,1395,1
+2004-01-01,1,Ciutat Vella,1,el Raval,7,1019,1631,2
+2004-01-01,1,Ciutat Vella,1,el Raval,7,1020,1193,1
+2004-01-01,1,Ciutat Vella,1,el Raval,7,1020,979,2
+2004-01-01,1,Ciutat Vella,1,el Raval,8,1021,1093,1
+2004-01-01,1,Ciutat Vella,1,el Raval,8,1021,978,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,636,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,543,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,3817,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,7361,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,670,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,627,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,794,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,809,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,780,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,843,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,953,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,1146,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,708,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,763,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1269,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1496,2
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,868,1
+2004-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,1006,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,1056,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,978,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,592,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,565,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,604,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,604,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,696,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,747,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,613,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,551,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,774,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,690,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,769,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,829,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,739,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,680,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,596,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,555,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,852,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,812,2
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,901,1
+2004-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,755,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,573,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,557,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,723,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,680,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1108,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,962,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,898,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,935,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,979,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,903,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1150,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1279,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,694,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,602,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,850,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,823,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,887,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,858,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1125,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1161,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,1085,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,1095,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,625,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,699,2
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,707,1
+2004-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,624,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2001,582,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2001,483,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2002,808,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2002,678,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2003,647,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2003,507,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2004,786,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2004,694,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2005,1102,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2005,940,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2006,807,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2006,703,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2007,754,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2007,552,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2008,943,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2008,862,2
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2009,941,1
+2004-01-01,2,Eixample,5,el Fort Pienc,20,2009,773,2
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2010,683,1
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2010,562,2
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2011,631,1
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2011,567,2
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2012,776,1
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2012,756,2
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2013,596,1
+2004-01-01,2,Eixample,5,el Fort Pienc,21,2013,528,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2014,710,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2014,565,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2015,874,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2015,738,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2016,1035,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2016,836,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2017,1062,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2017,844,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2018,988,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2018,851,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2019,1028,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2019,892,2
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2020,806,1
+2004-01-01,2,Eixample,5,el Fort Pienc,22,2020,647,2
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2021,843,1
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2021,724,2
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2022,688,1
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2022,618,2
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2023,563,1
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2023,561,2
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2024,673,1
+2004-01-01,2,Eixample,6,la Sagrada Família,23,2024,574,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2025,671,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2025,560,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2026,1141,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2026,940,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2027,1088,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2027,892,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2028,1164,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2028,960,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2029,601,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2029,572,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2030,672,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2030,553,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2031,555,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2031,482,2
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2032,613,1
+2004-01-01,2,Eixample,6,la Sagrada Família,24,2032,532,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2033,610,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2033,536,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2034,639,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2034,534,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2035,790,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2035,615,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2036,658,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2036,548,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2037,619,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2037,581,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2038,848,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2038,809,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2039,1006,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2039,731,2
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2040,884,1
+2004-01-01,2,Eixample,6,la Sagrada Família,25,2040,754,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2041,915,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2041,769,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2042,945,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2042,882,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2043,718,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2043,644,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2044,677,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2044,554,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2045,671,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2045,577,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2046,1042,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2046,768,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2047,969,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2047,843,2
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2048,680,1
+2004-01-01,2,Eixample,6,la Sagrada Família,26,2048,537,2
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2049,1262,1
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2049,989,2
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2050,955,1
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2050,812,2
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2051,1137,1
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2051,912,2
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2052,966,1
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2052,771,2
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2053,1006,1
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2053,814,2
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2054,1020,1
+2004-01-01,2,Eixample,6,la Sagrada Família,27,2054,792,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,1032,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,887,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,770,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,611,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,669,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,537,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,709,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,650,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,860,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,714,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,876,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,706,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,724,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,618,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,807,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,653,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,713,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,436,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,719,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,626,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,990,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,807,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,1058,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,870,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,846,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,710,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,918,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,768,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,697,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,585,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,798,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,723,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,854,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,736,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,576,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,483,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,808,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,701,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,642,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,587,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,590,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,481,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,739,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,720,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,743,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,659,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,724,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,579,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,687,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,525,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,823,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,659,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,1230,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,878,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,557,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,449,2
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,924,1
+2004-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,706,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,1149,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,940,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,831,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,624,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,718,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,567,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,820,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,635,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,883,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,740,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,987,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,786,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,920,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,742,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,888,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,762,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,926,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,861,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,839,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,702,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,783,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,643,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,799,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,644,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,819,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,643,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,604,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,482,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,866,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,692,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,797,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,639,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,751,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,631,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,1112,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,919,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,796,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,645,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,954,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,790,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,632,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,516,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,1150,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,892,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,772,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,620,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,914,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,725,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,933,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,740,2
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,1097,1
+2004-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,865,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,1014,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,801,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,1013,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,835,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,757,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,635,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,957,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,845,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,958,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,737,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,715,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,560,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,560,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,462,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,665,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,570,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,854,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,692,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,757,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,622,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,681,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,579,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,664,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,596,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,611,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,557,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,629,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,567,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,617,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,509,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,943,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,748,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,839,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,721,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,613,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,503,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,705,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,562,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,854,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,738,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,652,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,611,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,654,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,545,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,644,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,576,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,503,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,471,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,817,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,696,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,1179,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,976,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,556,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,468,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,741,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,631,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,1025,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,892,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,893,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,747,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,1045,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,922,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,695,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,543,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,1016,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,828,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,710,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,602,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,829,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,666,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,643,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,577,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,728,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,540,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,1168,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,932,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,819,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,699,2
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,976,1
+2004-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,784,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2150,815,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2150,658,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2151,784,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2151,635,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2152,742,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2152,624,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2153,734,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2153,600,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2154,573,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2154,492,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2155,1013,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2155,855,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2156,719,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2156,581,2
+2004-01-01,2,Eixample,10,Sant Antoni,51,2157,642,1
+2004-01-01,2,Eixample,10,Sant Antoni,51,2157,510,2
+2004-01-01,2,Eixample,10,Sant Antoni,52,2158,921,1
+2004-01-01,2,Eixample,10,Sant Antoni,52,2158,779,2
+2004-01-01,2,Eixample,10,Sant Antoni,52,2159,1008,1
+2004-01-01,2,Eixample,10,Sant Antoni,52,2159,849,2
+2004-01-01,2,Eixample,10,Sant Antoni,52,2160,1045,1
+2004-01-01,2,Eixample,10,Sant Antoni,52,2160,870,2
+2004-01-01,2,Eixample,10,Sant Antoni,52,2161,547,1
+2004-01-01,2,Eixample,10,Sant Antoni,52,2161,488,2
+2004-01-01,2,Eixample,10,Sant Antoni,52,2162,703,1
+2004-01-01,2,Eixample,10,Sant Antoni,52,2162,597,2
+2004-01-01,2,Eixample,10,Sant Antoni,53,2163,966,1
+2004-01-01,2,Eixample,10,Sant Antoni,53,2163,824,2
+2004-01-01,2,Eixample,10,Sant Antoni,53,2164,797,1
+2004-01-01,2,Eixample,10,Sant Antoni,53,2164,631,2
+2004-01-01,2,Eixample,10,Sant Antoni,53,2165,870,1
+2004-01-01,2,Eixample,10,Sant Antoni,53,2165,736,2
+2004-01-01,2,Eixample,10,Sant Antoni,54,2166,1170,1
+2004-01-01,2,Eixample,10,Sant Antoni,54,2166,977,2
+2004-01-01,2,Eixample,10,Sant Antoni,54,2167,1112,1
+2004-01-01,2,Eixample,10,Sant Antoni,54,2167,985,2
+2004-01-01,2,Eixample,10,Sant Antoni,54,2168,1155,1
+2004-01-01,2,Eixample,10,Sant Antoni,54,2168,980,2
+2004-01-01,2,Eixample,10,Sant Antoni,55,2169,807,1
+2004-01-01,2,Eixample,10,Sant Antoni,55,2169,725,2
+2004-01-01,2,Eixample,10,Sant Antoni,55,2170,862,1
+2004-01-01,2,Eixample,10,Sant Antoni,55,2170,712,2
+2004-01-01,2,Eixample,10,Sant Antoni,55,2171,872,1
+2004-01-01,2,Eixample,10,Sant Antoni,55,2171,762,2
+2004-01-01,2,Eixample,10,Sant Antoni,55,2172,901,1
+2004-01-01,2,Eixample,10,Sant Antoni,55,2172,749,2
+2004-01-01,2,Eixample,10,Sant Antoni,55,2173,856,1
+2004-01-01,2,Eixample,10,Sant Antoni,55,2173,724,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,887,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,799,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,1024,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,986,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,802,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,777,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,844,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,698,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,689,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,556,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,727,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,757,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,804,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,821,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,665,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,598,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,660,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,598,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,850,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,716,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,904,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,854,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1103,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,988,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,910,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,858,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,928,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,871,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1451,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1355,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,587,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,501,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,864,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,871,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,820,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,799,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,739,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,684,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,626,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,626,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,646,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,527,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,683,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,678,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,903,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,912,2
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,923,1
+2004-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,924,2
+2004-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,729,1
+2004-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,727,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,518,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,571,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,776,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,772,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,523,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,491,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,677,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,621,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,899,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,786,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1334,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1284,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,644,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,582,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,747,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,717,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,858,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,809,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,734,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,694,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1244,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1184,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1131,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1076,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,542,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,553,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1248,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1182,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1184,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1154,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,535,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,492,2
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1167,1
+2004-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1084,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,806,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,780,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,679,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,617,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,687,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,606,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,775,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,717,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,949,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,834,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,537,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,494,2
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,775,1
+2004-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,673,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,940,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,850,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,755,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,666,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,841,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,776,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,815,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,735,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,907,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,839,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,604,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,588,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,1070,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,896,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,937,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,886,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,736,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,716,2
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,497,1
+2004-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,394,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,821,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,729,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,618,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,477,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,621,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,589,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,703,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,680,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,628,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,528,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,848,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,726,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,655,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,619,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,650,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,609,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,752,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,752,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1223,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1214,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,957,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,883,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,652,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,633,2
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,623,1
+2004-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,567,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,689,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,691,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,719,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,672,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,735,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,642,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,820,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,688,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,949,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,764,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,897,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,744,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,576,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,530,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,693,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,627,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,823,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,729,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,990,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,825,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,814,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,709,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,1062,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,944,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,956,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,836,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,745,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,653,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,795,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,722,2
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,682,1
+2004-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,592,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3086,743,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3086,679,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3087,810,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3087,684,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3088,736,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3088,636,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3089,684,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3089,580,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3090,582,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3090,491,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3091,741,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3091,670,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3092,583,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3092,533,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3093,842,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3093,773,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3094,606,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,72,3094,541,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3095,825,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3095,664,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3096,800,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3096,738,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3097,833,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3097,748,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3098,686,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3098,665,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3099,586,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3099,487,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3100,630,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,73,3100,572,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3101,680,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3101,512,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3102,690,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3102,618,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3103,714,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3103,614,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3104,719,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,74,3104,642,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,75,3105,656,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,75,3105,564,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,75,3106,627,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,75,3106,574,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3107,753,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3107,710,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3108,810,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3108,698,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3109,768,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3109,683,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3110,763,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3110,622,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3111,666,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3111,543,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3112,960,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3112,790,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3113,851,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3113,705,2
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3114,773,1
+2004-01-01,3,Sants-Montjuïc,18,Sants,76,3114,677,2
+2004-01-01,4,Les Corts,19,les Corts,77,4001,701,1
+2004-01-01,4,Les Corts,19,les Corts,77,4001,606,2
+2004-01-01,4,Les Corts,19,les Corts,77,4002,961,1
+2004-01-01,4,Les Corts,19,les Corts,77,4002,866,2
+2004-01-01,4,Les Corts,19,les Corts,77,4003,547,1
+2004-01-01,4,Les Corts,19,les Corts,77,4003,529,2
+2004-01-01,4,Les Corts,19,les Corts,77,4004,505,1
+2004-01-01,4,Les Corts,19,les Corts,77,4004,441,2
+2004-01-01,4,Les Corts,19,les Corts,77,4005,686,1
+2004-01-01,4,Les Corts,19,les Corts,77,4005,623,2
+2004-01-01,4,Les Corts,19,les Corts,77,4006,625,1
+2004-01-01,4,Les Corts,19,les Corts,77,4006,553,2
+2004-01-01,4,Les Corts,19,les Corts,77,4007,543,1
+2004-01-01,4,Les Corts,19,les Corts,77,4007,493,2
+2004-01-01,4,Les Corts,19,les Corts,77,4008,563,1
+2004-01-01,4,Les Corts,19,les Corts,77,4008,506,2
+2004-01-01,4,Les Corts,19,les Corts,77,4009,804,1
+2004-01-01,4,Les Corts,19,les Corts,77,4009,670,2
+2004-01-01,4,Les Corts,19,les Corts,78,4010,461,1
+2004-01-01,4,Les Corts,19,les Corts,78,4010,412,2
+2004-01-01,4,Les Corts,19,les Corts,78,4011,950,1
+2004-01-01,4,Les Corts,19,les Corts,78,4011,850,2
+2004-01-01,4,Les Corts,19,les Corts,78,4012,839,1
+2004-01-01,4,Les Corts,19,les Corts,78,4012,695,2
+2004-01-01,4,Les Corts,19,les Corts,78,4013,649,1
+2004-01-01,4,Les Corts,19,les Corts,78,4013,581,2
+2004-01-01,4,Les Corts,19,les Corts,78,4014,470,1
+2004-01-01,4,Les Corts,19,les Corts,78,4014,362,2
+2004-01-01,4,Les Corts,19,les Corts,78,4015,1061,1
+2004-01-01,4,Les Corts,19,les Corts,78,4015,880,2
+2004-01-01,4,Les Corts,19,les Corts,78,4016,609,1
+2004-01-01,4,Les Corts,19,les Corts,78,4016,507,2
+2004-01-01,4,Les Corts,19,les Corts,79,4017,692,1
+2004-01-01,4,Les Corts,19,les Corts,79,4017,595,2
+2004-01-01,4,Les Corts,19,les Corts,79,4018,810,1
+2004-01-01,4,Les Corts,19,les Corts,79,4018,634,2
+2004-01-01,4,Les Corts,19,les Corts,79,4019,719,1
+2004-01-01,4,Les Corts,19,les Corts,79,4019,585,2
+2004-01-01,4,Les Corts,19,les Corts,79,4020,716,1
+2004-01-01,4,Les Corts,19,les Corts,79,4020,616,2
+2004-01-01,4,Les Corts,19,les Corts,79,4021,726,1
+2004-01-01,4,Les Corts,19,les Corts,79,4021,593,2
+2004-01-01,4,Les Corts,19,les Corts,80,4022,818,1
+2004-01-01,4,Les Corts,19,les Corts,80,4022,752,2
+2004-01-01,4,Les Corts,19,les Corts,81,4023,541,1
+2004-01-01,4,Les Corts,19,les Corts,81,4023,521,2
+2004-01-01,4,Les Corts,19,les Corts,81,4024,530,1
+2004-01-01,4,Les Corts,19,les Corts,81,4024,546,2
+2004-01-01,4,Les Corts,19,les Corts,82,4025,577,1
+2004-01-01,4,Les Corts,19,les Corts,82,4025,504,2
+2004-01-01,4,Les Corts,19,les Corts,82,4026,726,1
+2004-01-01,4,Les Corts,19,les Corts,82,4026,626,2
+2004-01-01,4,Les Corts,19,les Corts,82,4027,686,1
+2004-01-01,4,Les Corts,19,les Corts,82,4027,556,2
+2004-01-01,4,Les Corts,19,les Corts,83,4028,709,1
+2004-01-01,4,Les Corts,19,les Corts,83,4028,616,2
+2004-01-01,4,Les Corts,19,les Corts,83,4029,663,1
+2004-01-01,4,Les Corts,19,les Corts,83,4029,592,2
+2004-01-01,4,Les Corts,19,les Corts,83,4030,960,1
+2004-01-01,4,Les Corts,19,les Corts,83,4030,883,2
+2004-01-01,4,Les Corts,19,les Corts,84,4031,745,1
+2004-01-01,4,Les Corts,19,les Corts,84,4031,695,2
+2004-01-01,4,Les Corts,19,les Corts,84,4032,906,1
+2004-01-01,4,Les Corts,19,les Corts,84,4032,763,2
+2004-01-01,4,Les Corts,19,les Corts,84,4033,648,1
+2004-01-01,4,Les Corts,19,les Corts,84,4033,552,2
+2004-01-01,4,Les Corts,19,les Corts,84,4034,860,1
+2004-01-01,4,Les Corts,19,les Corts,84,4034,783,2
+2004-01-01,4,Les Corts,19,les Corts,84,4035,811,1
+2004-01-01,4,Les Corts,19,les Corts,84,4035,680,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,985,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,812,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,1232,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,1039,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,734,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,652,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,567,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,499,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,800,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,697,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,693,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,580,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,959,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,882,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,979,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,841,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,866,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,776,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,739,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,675,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1386,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1341,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,977,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,852,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,842,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,772,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,591,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,583,2
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,767,1
+2004-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,678,2
+2004-01-01,4,Les Corts,21,Pedralbes,88,4050,1075,1
+2004-01-01,4,Les Corts,21,Pedralbes,88,4050,931,2
+2004-01-01,4,Les Corts,21,Pedralbes,88,4051,874,1
+2004-01-01,4,Les Corts,21,Pedralbes,88,4051,737,2
+2004-01-01,4,Les Corts,21,Pedralbes,88,4052,1160,1
+2004-01-01,4,Les Corts,21,Pedralbes,88,4052,1025,2
+2004-01-01,4,Les Corts,21,Pedralbes,89,4053,742,1
+2004-01-01,4,Les Corts,21,Pedralbes,89,4053,609,2
+2004-01-01,4,Les Corts,21,Pedralbes,89,4054,595,1
+2004-01-01,4,Les Corts,21,Pedralbes,89,4054,581,2
+2004-01-01,4,Les Corts,21,Pedralbes,90,4055,870,1
+2004-01-01,4,Les Corts,21,Pedralbes,90,4055,878,2
+2004-01-01,4,Les Corts,21,Pedralbes,90,4056,878,1
+2004-01-01,4,Les Corts,21,Pedralbes,90,4056,761,2
+2004-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,541,1
+2004-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,533,2
+2004-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,755,1
+2004-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,679,2
+2004-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,617,1
+2004-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,546,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,575,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,380,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,503,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,452,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,853,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,867,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,794,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,602,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,782,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,651,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,936,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,717,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,829,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,680,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,705,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,604,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,734,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,658,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,856,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,734,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,793,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,758,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,744,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,683,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,966,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,736,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,864,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,732,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,680,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,579,2
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,860,1
+2004-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,755,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,599,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,496,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,473,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,480,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,957,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,702,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,777,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,667,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,996,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,871,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,662,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,591,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,735,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,672,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,712,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,629,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,675,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,629,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,781,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,756,2
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,709,1
+2004-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,632,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,783,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,721,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,762,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,577,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,614,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,499,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,688,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,495,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,581,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,541,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,882,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,788,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,735,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,594,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,705,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,541,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,822,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,728,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,713,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,619,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,787,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,620,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,589,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,510,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,702,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,586,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,664,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,535,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,803,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,699,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,702,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,521,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,627,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,520,2
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,717,1
+2004-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,570,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,887,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,725,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,786,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,634,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,794,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,717,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,753,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,629,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,797,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,681,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,593,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,487,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,761,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,680,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,685,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,542,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,953,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,828,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,836,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,691,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,904,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,696,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,636,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,517,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,842,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,693,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,885,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,698,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,871,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,701,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,838,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,682,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,856,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,689,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,700,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,567,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,686,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,526,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,752,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,642,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,939,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,761,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,798,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,646,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,879,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,644,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,909,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,674,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,897,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,758,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,829,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,709,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,977,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,728,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,733,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,621,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,732,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,566,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,1048,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,853,2
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,674,1
+2004-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,604,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,728,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,565,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,832,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,669,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,830,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,687,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,678,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,560,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,738,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,580,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,712,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,629,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,666,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,557,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,822,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,703,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,891,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,765,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,883,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,777,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,977,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,821,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,815,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,662,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,889,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,702,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,570,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,470,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1402,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1119,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,915,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,758,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,621,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,489,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,826,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,712,2
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,806,1
+2004-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,630,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,558,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,417,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,782,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,709,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1182,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1063,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,848,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,748,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,507,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,423,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,815,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,724,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,1058,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,885,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,609,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,566,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,551,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,480,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,709,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,625,2
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,600,1
+2004-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,522,2
+2004-01-01,6,Gràcia,29,el Coll,118,6013,894,1
+2004-01-01,6,Gràcia,29,el Coll,118,6013,808,2
+2004-01-01,6,Gràcia,29,el Coll,118,6014,757,1
+2004-01-01,6,Gràcia,29,el Coll,118,6014,624,2
+2004-01-01,6,Gràcia,29,el Coll,118,6015,696,1
+2004-01-01,6,Gràcia,29,el Coll,118,6015,674,2
+2004-01-01,6,Gràcia,29,el Coll,118,6016,750,1
+2004-01-01,6,Gràcia,29,el Coll,118,6016,734,2
+2004-01-01,6,Gràcia,29,el Coll,118,6017,638,1
+2004-01-01,6,Gràcia,29,el Coll,118,6017,567,2
+2004-01-01,6,Gràcia,30,la Salut,119,6018,699,1
+2004-01-01,6,Gràcia,30,la Salut,119,6018,649,2
+2004-01-01,6,Gràcia,30,la Salut,119,6019,794,1
+2004-01-01,6,Gràcia,30,la Salut,119,6019,675,2
+2004-01-01,6,Gràcia,30,la Salut,119,6020,592,1
+2004-01-01,6,Gràcia,30,la Salut,119,6020,513,2
+2004-01-01,6,Gràcia,30,la Salut,119,6021,738,1
+2004-01-01,6,Gràcia,30,la Salut,119,6021,637,2
+2004-01-01,6,Gràcia,30,la Salut,120,6022,711,1
+2004-01-01,6,Gràcia,30,la Salut,120,6022,541,2
+2004-01-01,6,Gràcia,30,la Salut,120,6023,714,1
+2004-01-01,6,Gràcia,30,la Salut,120,6023,675,2
+2004-01-01,6,Gràcia,30,la Salut,120,6024,886,1
+2004-01-01,6,Gràcia,30,la Salut,120,6024,708,2
+2004-01-01,6,Gràcia,30,la Salut,120,6025,790,1
+2004-01-01,6,Gràcia,30,la Salut,120,6025,653,2
+2004-01-01,6,Gràcia,30,la Salut,120,6026,570,1
+2004-01-01,6,Gràcia,30,la Salut,120,6026,438,2
+2004-01-01,6,Gràcia,30,la Salut,120,6027,667,1
+2004-01-01,6,Gràcia,30,la Salut,120,6027,532,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,705,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,613,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,675,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,545,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,766,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,638,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,661,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,519,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,622,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,540,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,725,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,614,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,708,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,506,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,566,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,451,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,799,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,553,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,656,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,529,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,799,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,596,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,890,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,712,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,988,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,654,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,956,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,736,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,888,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,664,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,630,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,561,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,817,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,672,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,703,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,537,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,607,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,472,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,685,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,560,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,703,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,591,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,618,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,489,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,692,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,585,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,655,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,532,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,836,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,667,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,785,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,622,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,884,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,699,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,746,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,556,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,837,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,716,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,870,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,692,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,911,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,760,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,859,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,708,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,929,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,774,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,683,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,592,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,685,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,582,2
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,799,1
+2004-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,681,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,1045,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,881,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,652,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,542,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,613,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,479,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,959,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,774,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,860,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,663,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,608,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,455,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,997,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,826,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,585,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,506,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,905,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,792,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,758,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,669,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,600,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,511,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,582,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,519,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,694,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,661,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,691,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,561,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,712,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,580,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,619,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,528,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,647,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,586,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,688,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,577,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,922,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,767,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,984,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,869,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,779,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,650,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,726,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,606,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,523,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,438,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,1097,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,931,2
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,659,1
+2004-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,602,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,818,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,698,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,433,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,383,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,731,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,613,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,858,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,667,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,733,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,675,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,584,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,494,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,637,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,571,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,830,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,765,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,633,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,500,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,701,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,576,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,642,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,519,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,862,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,755,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,708,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,607,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,514,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,426,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,727,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,634,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,659,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,638,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,961,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,768,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,902,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,706,2
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,856,1
+2004-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,696,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,819,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,677,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,551,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,521,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,600,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,541,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,686,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,649,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,751,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,675,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,717,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,607,2
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,625,1
+2004-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,544,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,1046,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,904,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,700,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,667,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,704,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,670,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,747,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,666,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,732,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,673,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,678,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,629,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,755,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,649,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,786,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,657,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,888,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,726,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,703,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,556,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,792,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,662,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,737,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,650,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,787,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,662,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,699,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,598,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,725,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,563,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,734,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,627,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,736,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,609,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,695,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,615,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,757,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,662,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,737,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,638,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,772,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,652,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,707,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,621,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,693,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,603,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,635,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,556,2
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,932,1
+2004-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,814,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,721,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,596,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,737,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,721,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,799,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,752,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,630,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,592,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,655,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,623,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,772,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,701,2
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,719,1
+2004-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,697,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,679,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,661,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,964,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,933,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,663,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,666,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,674,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,588,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,784,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,769,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,905,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,837,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,962,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,919,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,967,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,907,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,802,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,758,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,661,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,601,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,722,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,699,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,745,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,724,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,774,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,696,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,688,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,635,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,672,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,546,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,873,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,857,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,671,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,633,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,782,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,732,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,695,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,670,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,629,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,611,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,817,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,748,2
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,813,1
+2004-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,776,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,1137,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,1119,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,605,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,607,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,682,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,676,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,680,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,658,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,622,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,591,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,767,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,760,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,905,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,871,2
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,686,1
+2004-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,662,2
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,736,1
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,653,2
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,732,1
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,711,2
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,679,1
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,524,2
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,785,1
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,668,2
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,863,1
+2004-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,785,2
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7094,675,1
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7094,529,2
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7095,832,1
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7095,723,2
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7096,834,1
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7096,709,2
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7097,578,1
+2004-01-01,7,Horta-Guinardó,40,Montbau,151,7097,429,2
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,858,1
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,832,2
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,601,1
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,558,2
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,700,1
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,657,2
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,790,1
+2004-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,714,2
+2004-01-01,7,Horta-Guinardó,42,la Clota,153,7102,229,1
+2004-01-01,7,Horta-Guinardó,42,la Clota,153,7102,233,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7103,732,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7103,674,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7104,836,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7104,784,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7105,590,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7105,561,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7106,624,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7106,550,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7107,617,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7107,562,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7108,658,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7108,628,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7109,904,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7109,881,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7110,673,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7110,464,2
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7111,520,1
+2004-01-01,7,Horta-Guinardó,43,Horta,154,7111,455,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7112,662,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7112,591,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7113,590,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7113,561,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7114,627,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7114,532,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7115,588,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7115,519,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7116,796,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7116,728,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7117,568,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7117,480,2
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7118,674,1
+2004-01-01,7,Horta-Guinardó,43,Horta,155,7118,592,2
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7119,678,1
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7119,546,2
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7120,711,1
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7120,613,2
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7121,652,1
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7121,544,2
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7122,704,1
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7122,587,2
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7123,764,1
+2004-01-01,7,Horta-Guinardó,43,Horta,156,7123,664,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,723,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,657,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,591,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,524,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,706,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,655,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,754,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,639,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,624,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,600,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,782,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,692,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,663,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,581,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,883,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,783,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,858,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,682,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,582,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,527,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,641,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,587,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,738,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,592,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,682,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,570,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,622,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,530,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,708,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,642,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,634,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,556,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,714,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,680,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,849,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,724,2
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,961,1
+2004-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,822,2
+2004-01-01,8,Nou Barris,45,Porta,161,8020,630,1
+2004-01-01,8,Nou Barris,45,Porta,161,8020,543,2
+2004-01-01,8,Nou Barris,45,Porta,161,8021,678,1
+2004-01-01,8,Nou Barris,45,Porta,161,8021,624,2
+2004-01-01,8,Nou Barris,45,Porta,161,8022,698,1
+2004-01-01,8,Nou Barris,45,Porta,161,8022,610,2
+2004-01-01,8,Nou Barris,45,Porta,161,8023,706,1
+2004-01-01,8,Nou Barris,45,Porta,161,8023,636,2
+2004-01-01,8,Nou Barris,45,Porta,161,8024,742,1
+2004-01-01,8,Nou Barris,45,Porta,161,8024,657,2
+2004-01-01,8,Nou Barris,45,Porta,161,8025,627,1
+2004-01-01,8,Nou Barris,45,Porta,161,8025,539,2
+2004-01-01,8,Nou Barris,45,Porta,161,8026,582,1
+2004-01-01,8,Nou Barris,45,Porta,161,8026,512,2
+2004-01-01,8,Nou Barris,45,Porta,162,8027,635,1
+2004-01-01,8,Nou Barris,45,Porta,162,8027,615,2
+2004-01-01,8,Nou Barris,45,Porta,162,8028,616,1
+2004-01-01,8,Nou Barris,45,Porta,162,8028,599,2
+2004-01-01,8,Nou Barris,45,Porta,162,8029,682,1
+2004-01-01,8,Nou Barris,45,Porta,162,8029,648,2
+2004-01-01,8,Nou Barris,45,Porta,162,8030,638,1
+2004-01-01,8,Nou Barris,45,Porta,162,8030,630,2
+2004-01-01,8,Nou Barris,45,Porta,163,8031,741,1
+2004-01-01,8,Nou Barris,45,Porta,163,8031,653,2
+2004-01-01,8,Nou Barris,45,Porta,163,8032,711,1
+2004-01-01,8,Nou Barris,45,Porta,163,8032,680,2
+2004-01-01,8,Nou Barris,45,Porta,163,8033,744,1
+2004-01-01,8,Nou Barris,45,Porta,163,8033,677,2
+2004-01-01,8,Nou Barris,45,Porta,163,8034,616,1
+2004-01-01,8,Nou Barris,45,Porta,163,8034,564,2
+2004-01-01,8,Nou Barris,45,Porta,163,8035,702,1
+2004-01-01,8,Nou Barris,45,Porta,163,8035,656,2
+2004-01-01,8,Nou Barris,45,Porta,163,8036,790,1
+2004-01-01,8,Nou Barris,45,Porta,163,8036,694,2
+2004-01-01,8,Nou Barris,45,Porta,163,8037,790,1
+2004-01-01,8,Nou Barris,45,Porta,163,8037,690,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,799,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,670,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,806,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,694,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,845,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,739,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1210,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1090,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,670,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,611,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,603,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,473,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,707,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,609,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,838,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,763,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,735,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,633,2
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,806,1
+2004-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,722,2
+2004-01-01,8,Nou Barris,47,Can Peguera,166,8048,553,1
+2004-01-01,8,Nou Barris,47,Can Peguera,166,8048,496,2
+2004-01-01,8,Nou Barris,47,Can Peguera,166,8049,547,1
+2004-01-01,8,Nou Barris,47,Can Peguera,166,8049,509,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8050,762,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8050,735,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8051,579,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8051,580,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8052,520,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8052,450,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8053,643,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8053,625,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8054,949,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8054,845,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8055,1128,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8055,982,2
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8215,786,1
+2004-01-01,8,Nou Barris,48,la Guineueta,167,8215,729,2
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8056,810,1
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8056,747,2
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8057,712,1
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8057,632,2
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8058,930,1
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8058,810,2
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8059,574,1
+2004-01-01,8,Nou Barris,48,la Guineueta,168,8059,551,2
+2004-01-01,8,Nou Barris,49,Canyelles,169,8060,732,1
+2004-01-01,8,Nou Barris,49,Canyelles,169,8060,687,2
+2004-01-01,8,Nou Barris,49,Canyelles,169,8061,932,1
+2004-01-01,8,Nou Barris,49,Canyelles,169,8061,885,2
+2004-01-01,8,Nou Barris,49,Canyelles,169,8062,718,1
+2004-01-01,8,Nou Barris,49,Canyelles,169,8062,709,2
+2004-01-01,8,Nou Barris,49,Canyelles,169,8063,695,1
+2004-01-01,8,Nou Barris,49,Canyelles,169,8063,663,2
+2004-01-01,8,Nou Barris,49,Canyelles,169,8064,953,1
+2004-01-01,8,Nou Barris,49,Canyelles,169,8064,900,2
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8065,803,1
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8065,826,2
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8066,761,1
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8066,788,2
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8067,819,1
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8067,820,2
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8068,949,1
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8068,908,2
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8069,788,1
+2004-01-01,8,Nou Barris,50,les Roquetes,170,8069,744,2
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8070,751,1
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8070,657,2
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8071,862,1
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8071,836,2
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8072,667,1
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8072,618,2
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8073,951,1
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8073,823,2
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8074,692,1
+2004-01-01,8,Nou Barris,50,les Roquetes,171,8074,746,2
+2004-01-01,8,Nou Barris,51,Verdun,172,8075,910,1
+2004-01-01,8,Nou Barris,51,Verdun,172,8075,828,2
+2004-01-01,8,Nou Barris,51,Verdun,172,8076,793,1
+2004-01-01,8,Nou Barris,51,Verdun,172,8076,812,2
+2004-01-01,8,Nou Barris,51,Verdun,172,8077,799,1
+2004-01-01,8,Nou Barris,51,Verdun,172,8077,684,2
+2004-01-01,8,Nou Barris,51,Verdun,173,8078,828,1
+2004-01-01,8,Nou Barris,51,Verdun,173,8078,732,2
+2004-01-01,8,Nou Barris,51,Verdun,173,8079,723,1
+2004-01-01,8,Nou Barris,51,Verdun,173,8079,661,2
+2004-01-01,8,Nou Barris,51,Verdun,173,8080,736,1
+2004-01-01,8,Nou Barris,51,Verdun,173,8080,692,2
+2004-01-01,8,Nou Barris,51,Verdun,173,8081,793,1
+2004-01-01,8,Nou Barris,51,Verdun,173,8081,703,2
+2004-01-01,8,Nou Barris,51,Verdun,173,8082,862,1
+2004-01-01,8,Nou Barris,51,Verdun,173,8082,763,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8083,688,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8083,621,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8084,608,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8084,561,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8085,759,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8085,778,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8086,859,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,174,8086,821,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8087,660,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8087,619,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8088,637,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8088,584,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8089,665,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8089,591,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8090,617,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8090,571,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8091,669,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,175,8091,648,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8092,556,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8092,555,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8093,674,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8093,585,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8094,838,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8094,799,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8095,596,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,176,8095,564,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8096,781,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8096,725,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8097,670,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8097,683,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8098,648,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8098,620,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8099,727,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8099,681,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8100,699,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8100,574,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8101,835,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8101,780,2
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8102,694,1
+2004-01-01,8,Nou Barris,52,la Prosperitat,177,8102,662,2
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,831,1
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,754,2
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,653,1
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,541,2
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,897,1
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,800,2
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,911,1
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,823,2
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,883,1
+2004-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,811,2
+2004-01-01,8,Nou Barris,54,Torre Baró,179,8108,541,1
+2004-01-01,8,Nou Barris,54,Torre Baró,179,8108,558,2
+2004-01-01,8,Nou Barris,54,Torre Baró,179,8109,547,1
+2004-01-01,8,Nou Barris,54,Torre Baró,179,8109,565,2
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,964,1
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,974,2
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,824,1
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,813,2
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,785,1
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,764,2
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,792,1
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,855,2
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,902,1
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,906,2
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,766,1
+2004-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,771,2
+2004-01-01,8,Nou Barris,56,Vallbona,181,8116,477,1
+2004-01-01,8,Nou Barris,56,Vallbona,181,8116,456,2
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1175,1
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1293,2
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,899,1
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,933,2
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,993,1
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,1022,2
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,841,1
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,799,2
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,512,1
+2004-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,548,2
+2004-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,645,1
+2004-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,564,2
+2004-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,588,1
+2004-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,568,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,485,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,505,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,652,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,694,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,697,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,692,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,1374,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,1320,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,876,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,867,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,785,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,768,2
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,851,1
+2004-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,823,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,754,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,683,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,742,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,716,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,773,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,725,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1158,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1086,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,634,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,567,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,678,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,675,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,618,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,582,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,636,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,571,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,614,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,563,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,585,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,546,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,839,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,784,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,749,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,702,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,626,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,583,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,671,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,607,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,484,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,419,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,380,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,391,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,557,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,516,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1461,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1362,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,783,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,763,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,855,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,819,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,808,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,761,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,756,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,621,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,836,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,726,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,822,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,707,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,762,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,630,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,738,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,654,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,659,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,562,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,713,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,672,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,748,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,683,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,758,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,698,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,708,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,638,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,815,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,745,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,764,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,684,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,687,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,620,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,802,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,726,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,659,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,581,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,627,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,554,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,821,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,717,2
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,646,1
+2004-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,552,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9055,959,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9055,871,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9056,680,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9056,615,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9057,897,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9057,776,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9058,628,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9058,613,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9059,690,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9059,646,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9060,737,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9060,634,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9156,727,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,193,9156,701,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,194,9061,721,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,194,9061,680,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,194,9062,554,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,194,9062,504,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9063,404,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9063,422,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9064,663,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9064,624,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9065,1138,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9065,1001,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9066,610,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9066,580,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9067,793,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,195,9067,672,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9068,754,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9068,705,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9069,546,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9069,436,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9070,943,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9070,871,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9071,1008,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9071,865,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9072,781,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9072,685,2
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9073,861,1
+2004-01-01,9,Sant Andreu,61,la Sagrera,196,9073,801,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,895,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,728,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,765,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,660,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,732,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,605,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,868,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,672,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,763,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,667,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,885,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,771,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,730,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,653,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,923,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,802,2
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,874,1
+2004-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,714,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9083,859,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9083,745,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9084,872,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9084,757,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9085,923,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9085,791,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9086,722,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9086,609,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9087,679,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9087,583,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9088,976,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9088,840,2
+2004-01-01,9,Sant Andreu,63,Navas,199,9089,845,1
+2004-01-01,9,Sant Andreu,63,Navas,199,9089,672,2
+2004-01-01,9,Sant Andreu,63,Navas,200,9090,882,1
+2004-01-01,9,Sant Andreu,63,Navas,200,9090,779,2
+2004-01-01,9,Sant Andreu,63,Navas,200,9091,1083,1
+2004-01-01,9,Sant Andreu,63,Navas,200,9091,891,2
+2004-01-01,9,Sant Andreu,63,Navas,200,9092,1017,1
+2004-01-01,9,Sant Andreu,63,Navas,200,9092,915,2
+2004-01-01,9,Sant Andreu,63,Navas,200,9093,737,1
+2004-01-01,9,Sant Andreu,63,Navas,200,9093,673,2
+2004-01-01,9,Sant Andreu,63,Navas,200,9094,1109,1
+2004-01-01,9,Sant Andreu,63,Navas,200,9094,893,2
+2004-01-01,9,Sant Andreu,63,Navas,200,9095,1052,1
+2004-01-01,9,Sant Andreu,63,Navas,200,9095,881,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,833,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,758,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,869,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,793,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,757,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,649,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,749,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,683,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,928,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,784,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,949,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,805,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,754,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,671,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,956,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,776,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,860,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,705,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,904,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,819,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,704,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,577,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,934,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,871,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,781,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,683,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,792,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,746,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,998,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,897,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,714,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,654,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,945,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,820,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,736,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,670,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,864,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,813,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,852,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,756,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,700,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,616,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,673,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,569,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,779,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,652,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,608,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,526,2
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,715,1
+2004-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,625,2
+2004-01-01,10,Sant Martí,65,el Clot,205,10026,750,1
+2004-01-01,10,Sant Martí,65,el Clot,205,10026,696,2
+2004-01-01,10,Sant Martí,65,el Clot,205,10027,907,1
+2004-01-01,10,Sant Martí,65,el Clot,205,10027,807,2
+2004-01-01,10,Sant Martí,65,el Clot,205,10028,943,1
+2004-01-01,10,Sant Martí,65,el Clot,205,10028,834,2
+2004-01-01,10,Sant Martí,65,el Clot,205,10029,772,1
+2004-01-01,10,Sant Martí,65,el Clot,205,10029,718,2
+2004-01-01,10,Sant Martí,65,el Clot,205,10030,962,1
+2004-01-01,10,Sant Martí,65,el Clot,205,10030,862,2
+2004-01-01,10,Sant Martí,65,el Clot,205,10031,797,1
+2004-01-01,10,Sant Martí,65,el Clot,205,10031,728,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10032,734,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10032,683,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10033,484,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10033,443,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10034,912,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10034,899,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10035,913,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10035,910,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10036,598,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10036,595,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10037,525,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10037,527,2
+2004-01-01,10,Sant Martí,65,el Clot,206,10234,1099,1
+2004-01-01,10,Sant Martí,65,el Clot,206,10234,1022,2
+2004-01-01,10,Sant Martí,65,el Clot,207,10038,819,1
+2004-01-01,10,Sant Martí,65,el Clot,207,10038,751,2
+2004-01-01,10,Sant Martí,65,el Clot,207,10039,895,1
+2004-01-01,10,Sant Martí,65,el Clot,207,10039,730,2
+2004-01-01,10,Sant Martí,65,el Clot,207,10040,908,1
+2004-01-01,10,Sant Martí,65,el Clot,207,10040,786,2
+2004-01-01,10,Sant Martí,65,el Clot,207,10041,830,1
+2004-01-01,10,Sant Martí,65,el Clot,207,10041,760,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,711,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,659,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,761,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,772,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,823,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,757,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,609,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,512,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,699,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,639,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,945,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,905,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,775,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,707,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,699,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,685,2
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,823,1
+2004-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,738,2
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,702,1
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,649,2
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,778,1
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,748,2
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,894,1
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,887,2
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,487,1
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,449,2
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1220,1
+2004-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1208,2
+2004-01-01,10,Sant Martí,68,el Poblenou,212,10056,917,1
+2004-01-01,10,Sant Martí,68,el Poblenou,212,10056,855,2
+2004-01-01,10,Sant Martí,68,el Poblenou,212,10057,655,1
+2004-01-01,10,Sant Martí,68,el Poblenou,212,10057,601,2
+2004-01-01,10,Sant Martí,68,el Poblenou,212,10058,577,1
+2004-01-01,10,Sant Martí,68,el Poblenou,212,10058,496,2
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10059,724,1
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10059,649,2
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10060,688,1
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10060,610,2
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10061,855,1
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10061,788,2
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10062,716,1
+2004-01-01,10,Sant Martí,68,el Poblenou,213,10062,641,2
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10063,643,1
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10063,627,2
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10064,798,1
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10064,729,2
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10065,688,1
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10065,673,2
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10066,764,1
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10066,688,2
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10067,538,1
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10067,513,2
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10068,573,1
+2004-01-01,10,Sant Martí,68,el Poblenou,214,10068,554,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10069,508,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10069,461,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10070,808,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10070,718,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10071,875,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10071,871,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10072,828,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10072,818,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10073,844,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10073,783,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10074,813,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10074,764,2
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10075,745,1
+2004-01-01,10,Sant Martí,68,el Poblenou,215,10075,696,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,99,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,89,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,668,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,630,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,903,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,808,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,650,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,660,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,761,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,736,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,809,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,771,2
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,266,1
+2004-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,281,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,776,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,764,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,903,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,965,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,889,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,1019,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,802,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,733,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,942,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,857,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,927,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,850,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,909,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,801,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,883,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,864,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,767,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,698,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,731,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,675,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,1050,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,1018,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,894,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,857,2
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,624,1
+2004-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,607,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,542,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,506,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,362,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,316,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,539,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,472,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,611,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,551,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,975,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,963,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,553,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,541,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,824,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,761,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,684,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,584,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1417,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1353,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1258,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1218,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,965,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,907,2
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,447,1
+2004-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,351,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1180,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1083,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,568,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,541,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,801,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,764,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,751,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,765,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,858,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,751,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,901,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,776,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,696,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,606,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,895,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,839,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,564,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,477,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,741,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,596,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,737,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,695,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,997,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,878,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,736,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,656,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,577,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,536,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,647,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,558,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,814,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,658,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,775,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,659,2
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,873,1
+2004-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,820,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,750,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,715,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,575,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,550,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,597,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,610,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,583,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,571,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,467,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,407,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,929,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,858,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,676,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,667,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,653,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,598,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,704,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,598,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,684,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,600,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,980,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,873,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,809,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,757,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,676,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,620,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,769,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,738,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,859,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,851,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,777,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,730,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,956,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,864,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,881,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,746,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,626,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,577,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,870,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,786,2
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,903,1
+2004-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,798,2

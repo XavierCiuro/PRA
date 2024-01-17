@@ -1,0 +1,2137 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,AEB,Seccio_Censal,Valor,SEXE
+2010-01-01,1,Ciutat Vella,1,el Raval,1,1001,570,1
+2010-01-01,1,Ciutat Vella,1,el Raval,1,1001,757,2
+2010-01-01,1,Ciutat Vella,1,el Raval,1,1002,689,1
+2010-01-01,1,Ciutat Vella,1,el Raval,1,1002,794,2
+2010-01-01,1,Ciutat Vella,1,el Raval,2,1003,1490,1
+2010-01-01,1,Ciutat Vella,1,el Raval,2,1003,1776,2
+2010-01-01,1,Ciutat Vella,1,el Raval,2,1004,1323,1
+2010-01-01,1,Ciutat Vella,1,el Raval,2,1004,1594,2
+2010-01-01,1,Ciutat Vella,1,el Raval,3,1005,1080,1
+2010-01-01,1,Ciutat Vella,1,el Raval,3,1005,1321,2
+2010-01-01,1,Ciutat Vella,1,el Raval,3,1006,831,1
+2010-01-01,1,Ciutat Vella,1,el Raval,3,1006,1165,2
+2010-01-01,1,Ciutat Vella,1,el Raval,3,1007,789,1
+2010-01-01,1,Ciutat Vella,1,el Raval,3,1007,1190,2
+2010-01-01,1,Ciutat Vella,1,el Raval,4,1008,1274,1
+2010-01-01,1,Ciutat Vella,1,el Raval,4,1008,2001,2
+2010-01-01,1,Ciutat Vella,1,el Raval,4,1009,975,1
+2010-01-01,1,Ciutat Vella,1,el Raval,4,1009,1185,2
+2010-01-01,1,Ciutat Vella,1,el Raval,4,1010,1002,1
+2010-01-01,1,Ciutat Vella,1,el Raval,4,1010,1301,2
+2010-01-01,1,Ciutat Vella,1,el Raval,5,1011,1489,1
+2010-01-01,1,Ciutat Vella,1,el Raval,5,1011,1899,2
+2010-01-01,1,Ciutat Vella,1,el Raval,5,1012,908,1
+2010-01-01,1,Ciutat Vella,1,el Raval,5,1012,1000,2
+2010-01-01,1,Ciutat Vella,1,el Raval,5,1013,648,1
+2010-01-01,1,Ciutat Vella,1,el Raval,5,1013,619,2
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1014,939,1
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1014,961,2
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1015,1169,1
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1015,1141,2
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1016,1185,1
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1016,1152,2
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1017,1271,1
+2010-01-01,1,Ciutat Vella,1,el Raval,6,1017,1435,2
+2010-01-01,1,Ciutat Vella,1,el Raval,7,1018,714,1
+2010-01-01,1,Ciutat Vella,1,el Raval,7,1018,737,2
+2010-01-01,1,Ciutat Vella,1,el Raval,7,1019,1287,1
+2010-01-01,1,Ciutat Vella,1,el Raval,7,1019,1497,2
+2010-01-01,1,Ciutat Vella,1,el Raval,7,1020,1176,1
+2010-01-01,1,Ciutat Vella,1,el Raval,7,1020,976,2
+2010-01-01,1,Ciutat Vella,1,el Raval,8,1021,1066,1
+2010-01-01,1,Ciutat Vella,1,el Raval,8,1021,980,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,668,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,575,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,1559,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,1927,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,717,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,658,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,1106,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,1926,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,786,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,810,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,883,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,1133,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,715,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,775,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1186,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1379,2
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,783,1
+2010-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,934,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,1011,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,998,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,596,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,602,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,567,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,568,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,713,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,740,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,614,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,570,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,752,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,691,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,761,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,873,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,715,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,722,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,589,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,556,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,801,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,824,2
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,977,1
+2010-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,850,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,566,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,550,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,763,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,710,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1058,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1040,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,886,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,919,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,997,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,924,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1118,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1145,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,711,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,646,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,794,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,794,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,913,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,921,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1199,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1290,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,1042,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,1073,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,641,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,706,2
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,715,1
+2010-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,577,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2001,595,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2001,524,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2002,1240,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2002,1910,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2003,704,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2003,565,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2004,824,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2004,697,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2005,1125,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2005,996,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2006,846,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2006,754,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2007,731,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2007,556,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2008,999,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2008,833,2
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2009,907,1
+2010-01-01,2,Eixample,5,el Fort Pienc,20,2009,782,2
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2010,646,1
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2010,564,2
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2011,564,1
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2011,534,2
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2012,807,1
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2012,756,2
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2013,608,1
+2010-01-01,2,Eixample,5,el Fort Pienc,21,2013,543,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2014,704,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2014,625,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2015,860,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2015,749,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2016,1071,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2016,873,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2017,1064,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2017,875,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2018,1011,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2018,882,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2019,1029,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2019,896,2
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2020,756,1
+2010-01-01,2,Eixample,5,el Fort Pienc,22,2020,643,2
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2021,790,1
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2021,730,2
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2022,657,1
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2022,587,2
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2023,588,1
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2023,551,2
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2024,657,1
+2010-01-01,2,Eixample,6,la Sagrada Família,23,2024,540,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2025,656,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2025,556,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2026,1145,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2026,971,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2027,1099,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2027,911,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2028,1166,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2028,947,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2029,601,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2029,549,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2030,699,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2030,585,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2031,552,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2031,459,2
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2032,788,1
+2010-01-01,2,Eixample,6,la Sagrada Família,24,2032,574,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2033,623,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2033,546,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2034,630,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2034,517,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2035,728,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2035,588,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2036,659,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2036,572,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2037,606,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2037,605,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2038,833,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2038,772,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2039,989,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2039,749,2
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2040,840,1
+2010-01-01,2,Eixample,6,la Sagrada Família,25,2040,756,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2041,965,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2041,756,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2042,921,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2042,814,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2043,760,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2043,685,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2044,691,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2044,534,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2045,659,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2045,572,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2046,1044,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2046,797,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2047,995,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2047,858,2
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2048,678,1
+2010-01-01,2,Eixample,6,la Sagrada Família,26,2048,553,2
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2049,1215,1
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2049,978,2
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2050,903,1
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2050,753,2
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2051,1128,1
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2051,961,2
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2052,980,1
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2052,841,2
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2053,993,1
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2053,829,2
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2054,1055,1
+2010-01-01,2,Eixample,6,la Sagrada Família,27,2054,875,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,1013,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,889,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,790,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,641,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,659,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,540,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,748,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,613,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,848,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,731,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,893,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,756,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,761,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,658,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,842,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,724,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,694,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,452,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,749,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,644,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,962,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,853,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,1031,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,888,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,906,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,726,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,939,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,801,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,708,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,620,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,787,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,615,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,890,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,806,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,641,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,573,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,882,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,770,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,612,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,547,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,656,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,509,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,842,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,752,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,767,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,724,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,799,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,607,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,663,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,568,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,761,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,614,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,1181,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,896,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,532,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,409,2
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,885,1
+2010-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,696,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,1121,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,928,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,790,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,632,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,765,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,588,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,804,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,637,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,907,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,802,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,992,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,842,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,897,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,775,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,915,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,861,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,951,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,912,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,808,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,753,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,793,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,737,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,814,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,727,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,780,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,680,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,596,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,510,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,870,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,670,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,819,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,676,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,758,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,640,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,1201,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,952,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,758,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,593,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,965,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,781,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,616,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,493,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,1156,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,967,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,745,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,639,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,885,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,707,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,870,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,679,2
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,1072,1
+2010-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,868,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,1001,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,857,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,976,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,834,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,718,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,596,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,895,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,801,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,924,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,716,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,742,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,606,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,580,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,471,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,623,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,571,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,856,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,669,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,686,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,571,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,658,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,579,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,656,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,610,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,593,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,494,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,575,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,532,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,631,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,529,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,914,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,755,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,852,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,731,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,605,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,544,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,715,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,616,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,855,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,749,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,551,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,547,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,651,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,584,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,631,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,583,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,494,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,437,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,809,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,684,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,1169,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,997,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,515,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,460,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,776,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,652,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,1003,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,867,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,933,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,790,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,1066,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,892,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,666,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,569,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,1047,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,916,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,654,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,606,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,857,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,706,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,643,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,606,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,686,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,516,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,1202,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,1002,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,854,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,757,2
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,947,1
+2010-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,802,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2150,793,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2150,695,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2151,807,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2151,697,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2152,691,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2152,560,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2153,714,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2153,592,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2154,549,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2154,482,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2155,1024,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2155,861,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2156,681,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2156,574,2
+2010-01-01,2,Eixample,10,Sant Antoni,51,2157,631,1
+2010-01-01,2,Eixample,10,Sant Antoni,51,2157,541,2
+2010-01-01,2,Eixample,10,Sant Antoni,52,2158,898,1
+2010-01-01,2,Eixample,10,Sant Antoni,52,2158,802,2
+2010-01-01,2,Eixample,10,Sant Antoni,52,2159,988,1
+2010-01-01,2,Eixample,10,Sant Antoni,52,2159,849,2
+2010-01-01,2,Eixample,10,Sant Antoni,52,2160,1055,1
+2010-01-01,2,Eixample,10,Sant Antoni,52,2160,915,2
+2010-01-01,2,Eixample,10,Sant Antoni,52,2161,578,1
+2010-01-01,2,Eixample,10,Sant Antoni,52,2161,499,2
+2010-01-01,2,Eixample,10,Sant Antoni,52,2162,703,1
+2010-01-01,2,Eixample,10,Sant Antoni,52,2162,623,2
+2010-01-01,2,Eixample,10,Sant Antoni,53,2163,930,1
+2010-01-01,2,Eixample,10,Sant Antoni,53,2163,820,2
+2010-01-01,2,Eixample,10,Sant Antoni,53,2164,768,1
+2010-01-01,2,Eixample,10,Sant Antoni,53,2164,659,2
+2010-01-01,2,Eixample,10,Sant Antoni,53,2165,843,1
+2010-01-01,2,Eixample,10,Sant Antoni,53,2165,779,2
+2010-01-01,2,Eixample,10,Sant Antoni,54,2166,1160,1
+2010-01-01,2,Eixample,10,Sant Antoni,54,2166,957,2
+2010-01-01,2,Eixample,10,Sant Antoni,54,2167,1092,1
+2010-01-01,2,Eixample,10,Sant Antoni,54,2167,954,2
+2010-01-01,2,Eixample,10,Sant Antoni,54,2168,1177,1
+2010-01-01,2,Eixample,10,Sant Antoni,54,2168,1016,2
+2010-01-01,2,Eixample,10,Sant Antoni,55,2169,850,1
+2010-01-01,2,Eixample,10,Sant Antoni,55,2169,785,2
+2010-01-01,2,Eixample,10,Sant Antoni,55,2170,894,1
+2010-01-01,2,Eixample,10,Sant Antoni,55,2170,805,2
+2010-01-01,2,Eixample,10,Sant Antoni,55,2171,867,1
+2010-01-01,2,Eixample,10,Sant Antoni,55,2171,746,2
+2010-01-01,2,Eixample,10,Sant Antoni,55,2172,875,1
+2010-01-01,2,Eixample,10,Sant Antoni,55,2172,805,2
+2010-01-01,2,Eixample,10,Sant Antoni,55,2173,817,1
+2010-01-01,2,Eixample,10,Sant Antoni,55,2173,728,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,932,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,849,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,1085,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,994,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,832,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,816,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,853,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,722,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,642,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,528,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,736,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,744,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,871,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,813,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,633,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,586,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,646,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,568,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,918,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,742,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,942,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,936,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1172,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1053,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,982,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,1029,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,932,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,930,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1545,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1527,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,622,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,548,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,893,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,937,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,830,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,846,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,795,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,702,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,619,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,652,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,608,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,533,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,750,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,731,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,922,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,906,2
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,931,1
+2010-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,1003,2
+2010-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,568,1
+2010-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,567,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,545,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,530,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,862,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,824,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,1005,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,953,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,687,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,601,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,874,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,737,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1301,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1239,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,794,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,686,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,726,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,732,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,803,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,759,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,741,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,718,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1219,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1142,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1144,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1077,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,599,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,568,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1261,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1180,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1251,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1215,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,503,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,468,2
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1177,1
+2010-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1187,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,871,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,746,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,715,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,644,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,677,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,606,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,838,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,773,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,1011,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,881,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,554,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,498,2
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,784,1
+2010-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,683,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,945,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,877,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,750,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,726,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,853,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,787,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,838,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,792,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,1008,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,927,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,635,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,588,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,1034,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,961,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,925,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,892,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,774,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,781,2
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,473,1
+2010-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,395,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,825,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,702,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,699,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,520,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,645,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,599,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,703,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,663,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,628,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,517,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,873,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,782,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,664,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,644,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,681,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,591,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,752,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,754,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1144,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1148,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,901,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,797,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,643,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,586,2
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,622,1
+2010-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,562,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,687,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,701,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,690,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,641,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,752,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,660,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,859,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,724,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,922,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,809,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,832,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,741,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,541,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,499,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,703,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,597,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,847,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,772,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,976,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,852,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,843,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,744,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,1068,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,912,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,982,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,858,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,752,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,637,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,797,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,713,2
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,678,1
+2010-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,561,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3086,684,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3086,637,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3087,813,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3087,714,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3088,749,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3088,675,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3089,641,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3089,574,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3090,593,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3090,513,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3091,741,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3091,730,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3092,618,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3092,590,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3093,822,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3093,773,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3094,608,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,72,3094,550,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3095,902,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3095,724,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3096,841,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3096,788,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3097,885,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3097,813,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3098,737,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3098,694,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3099,598,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3099,478,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3100,646,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,73,3100,585,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3101,1080,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3101,1689,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3102,726,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3102,678,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3103,659,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3103,579,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3104,745,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,74,3104,687,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,75,3105,639,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,75,3105,558,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,75,3106,729,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,75,3106,553,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3107,768,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3107,706,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3108,889,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3108,762,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3109,780,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3109,702,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3110,759,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3110,658,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3111,660,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3111,571,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3112,980,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3112,855,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3113,851,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3113,703,2
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3114,777,1
+2010-01-01,3,Sants-Montjuïc,18,Sants,76,3114,652,2
+2010-01-01,4,Les Corts,19,les Corts,77,4001,668,1
+2010-01-01,4,Les Corts,19,les Corts,77,4001,574,2
+2010-01-01,4,Les Corts,19,les Corts,77,4002,935,1
+2010-01-01,4,Les Corts,19,les Corts,77,4002,841,2
+2010-01-01,4,Les Corts,19,les Corts,77,4003,550,1
+2010-01-01,4,Les Corts,19,les Corts,77,4003,501,2
+2010-01-01,4,Les Corts,19,les Corts,77,4004,531,1
+2010-01-01,4,Les Corts,19,les Corts,77,4004,477,2
+2010-01-01,4,Les Corts,19,les Corts,77,4005,667,1
+2010-01-01,4,Les Corts,19,les Corts,77,4005,593,2
+2010-01-01,4,Les Corts,19,les Corts,77,4006,625,1
+2010-01-01,4,Les Corts,19,les Corts,77,4006,559,2
+2010-01-01,4,Les Corts,19,les Corts,77,4007,659,1
+2010-01-01,4,Les Corts,19,les Corts,77,4007,510,2
+2010-01-01,4,Les Corts,19,les Corts,77,4008,602,1
+2010-01-01,4,Les Corts,19,les Corts,77,4008,533,2
+2010-01-01,4,Les Corts,19,les Corts,77,4009,754,1
+2010-01-01,4,Les Corts,19,les Corts,77,4009,680,2
+2010-01-01,4,Les Corts,19,les Corts,78,4010,465,1
+2010-01-01,4,Les Corts,19,les Corts,78,4010,416,2
+2010-01-01,4,Les Corts,19,les Corts,78,4011,872,1
+2010-01-01,4,Les Corts,19,les Corts,78,4011,809,2
+2010-01-01,4,Les Corts,19,les Corts,78,4012,790,1
+2010-01-01,4,Les Corts,19,les Corts,78,4012,680,2
+2010-01-01,4,Les Corts,19,les Corts,78,4013,702,1
+2010-01-01,4,Les Corts,19,les Corts,78,4013,587,2
+2010-01-01,4,Les Corts,19,les Corts,78,4014,485,1
+2010-01-01,4,Les Corts,19,les Corts,78,4014,388,2
+2010-01-01,4,Les Corts,19,les Corts,78,4015,1062,1
+2010-01-01,4,Les Corts,19,les Corts,78,4015,874,2
+2010-01-01,4,Les Corts,19,les Corts,78,4016,607,1
+2010-01-01,4,Les Corts,19,les Corts,78,4016,534,2
+2010-01-01,4,Les Corts,19,les Corts,79,4017,661,1
+2010-01-01,4,Les Corts,19,les Corts,79,4017,539,2
+2010-01-01,4,Les Corts,19,les Corts,79,4018,813,1
+2010-01-01,4,Les Corts,19,les Corts,79,4018,660,2
+2010-01-01,4,Les Corts,19,les Corts,79,4019,736,1
+2010-01-01,4,Les Corts,19,les Corts,79,4019,574,2
+2010-01-01,4,Les Corts,19,les Corts,79,4020,703,1
+2010-01-01,4,Les Corts,19,les Corts,79,4020,612,2
+2010-01-01,4,Les Corts,19,les Corts,79,4021,705,1
+2010-01-01,4,Les Corts,19,les Corts,79,4021,592,2
+2010-01-01,4,Les Corts,19,les Corts,80,4022,809,1
+2010-01-01,4,Les Corts,19,les Corts,80,4022,768,2
+2010-01-01,4,Les Corts,19,les Corts,81,4023,562,1
+2010-01-01,4,Les Corts,19,les Corts,81,4023,501,2
+2010-01-01,4,Les Corts,19,les Corts,81,4024,523,1
+2010-01-01,4,Les Corts,19,les Corts,81,4024,487,2
+2010-01-01,4,Les Corts,19,les Corts,82,4025,604,1
+2010-01-01,4,Les Corts,19,les Corts,82,4025,567,2
+2010-01-01,4,Les Corts,19,les Corts,82,4026,694,1
+2010-01-01,4,Les Corts,19,les Corts,82,4026,605,2
+2010-01-01,4,Les Corts,19,les Corts,82,4027,667,1
+2010-01-01,4,Les Corts,19,les Corts,82,4027,546,2
+2010-01-01,4,Les Corts,19,les Corts,83,4028,709,1
+2010-01-01,4,Les Corts,19,les Corts,83,4028,607,2
+2010-01-01,4,Les Corts,19,les Corts,83,4029,669,1
+2010-01-01,4,Les Corts,19,les Corts,83,4029,554,2
+2010-01-01,4,Les Corts,19,les Corts,83,4030,920,1
+2010-01-01,4,Les Corts,19,les Corts,83,4030,805,2
+2010-01-01,4,Les Corts,19,les Corts,84,4031,1094,1
+2010-01-01,4,Les Corts,19,les Corts,84,4031,1784,2
+2010-01-01,4,Les Corts,19,les Corts,84,4032,854,1
+2010-01-01,4,Les Corts,19,les Corts,84,4032,736,2
+2010-01-01,4,Les Corts,19,les Corts,84,4033,647,1
+2010-01-01,4,Les Corts,19,les Corts,84,4033,536,2
+2010-01-01,4,Les Corts,19,les Corts,84,4034,787,1
+2010-01-01,4,Les Corts,19,les Corts,84,4034,716,2
+2010-01-01,4,Les Corts,19,les Corts,84,4035,787,1
+2010-01-01,4,Les Corts,19,les Corts,84,4035,656,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,938,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,741,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,1162,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,970,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,679,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,602,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,637,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,546,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,791,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,708,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,738,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,623,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,895,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,818,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,923,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,756,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,877,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,779,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,739,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,640,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1271,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1231,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,896,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,813,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,828,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,738,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,548,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,523,2
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,730,1
+2010-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,622,2
+2010-01-01,4,Les Corts,21,Pedralbes,88,4050,1069,1
+2010-01-01,4,Les Corts,21,Pedralbes,88,4050,928,2
+2010-01-01,4,Les Corts,21,Pedralbes,88,4051,897,1
+2010-01-01,4,Les Corts,21,Pedralbes,88,4051,765,2
+2010-01-01,4,Les Corts,21,Pedralbes,88,4052,1145,1
+2010-01-01,4,Les Corts,21,Pedralbes,88,4052,985,2
+2010-01-01,4,Les Corts,21,Pedralbes,89,4053,771,1
+2010-01-01,4,Les Corts,21,Pedralbes,89,4053,643,2
+2010-01-01,4,Les Corts,21,Pedralbes,89,4054,573,1
+2010-01-01,4,Les Corts,21,Pedralbes,89,4054,520,2
+2010-01-01,4,Les Corts,21,Pedralbes,90,4055,840,1
+2010-01-01,4,Les Corts,21,Pedralbes,90,4055,801,2
+2010-01-01,4,Les Corts,21,Pedralbes,90,4056,936,1
+2010-01-01,4,Les Corts,21,Pedralbes,90,4056,796,2
+2010-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,699,1
+2010-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,709,2
+2010-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,838,1
+2010-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,716,2
+2010-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,694,1
+2010-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,609,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,596,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,459,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,582,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,510,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,870,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,884,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,795,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,656,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,817,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,643,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,925,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,742,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,815,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,663,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,752,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,647,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,717,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,632,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,888,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,765,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,858,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,792,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,853,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,730,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,966,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,787,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,854,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,739,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,666,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,561,2
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,869,1
+2010-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,730,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,630,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,505,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,616,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,544,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,957,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,725,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,809,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,658,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,975,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,852,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,709,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,598,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,733,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,657,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,693,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,635,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,759,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,667,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,842,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,786,2
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,728,1
+2010-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,653,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,850,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,725,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,849,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,692,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,727,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,567,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,684,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,471,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,584,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,543,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,889,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,776,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,773,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,580,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,682,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,584,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,824,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,693,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,728,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,641,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,1127,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,1712,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,645,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,567,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,742,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,637,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,708,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,577,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,812,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,677,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,652,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,500,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,678,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,549,2
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,685,1
+2010-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,574,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,863,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,741,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,858,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,720,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,846,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,761,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,773,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,634,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,827,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,692,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,614,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,500,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,760,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,690,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,700,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,536,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,927,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,817,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,845,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,672,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,865,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,657,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,636,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,500,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,824,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,680,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,871,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,718,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,886,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,700,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,905,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,743,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,884,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,697,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,715,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,544,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,709,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,577,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,770,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,661,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,893,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,763,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,806,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,619,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,879,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,715,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,916,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,664,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,868,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,715,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,853,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,702,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,936,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,747,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,736,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,632,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,727,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,582,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,1084,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,909,2
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,655,1
+2010-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,572,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,735,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,548,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,865,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,641,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,874,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,751,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,687,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,576,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,752,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,591,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,674,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,604,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,725,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,588,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,879,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,701,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,863,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,802,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,882,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,771,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,971,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,838,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,831,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,643,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,894,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,717,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,576,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,496,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1410,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1094,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,876,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,724,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,594,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,507,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,847,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,717,2
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,810,1
+2010-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,677,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,605,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,464,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,824,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,710,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1151,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1038,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,835,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,726,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,540,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,444,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,882,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,753,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,1040,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,836,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,629,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,605,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,540,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,493,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,697,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,589,2
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,575,1
+2010-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,505,2
+2010-01-01,6,Gràcia,29,el Coll,118,6013,884,1
+2010-01-01,6,Gràcia,29,el Coll,118,6013,800,2
+2010-01-01,6,Gràcia,29,el Coll,118,6014,721,1
+2010-01-01,6,Gràcia,29,el Coll,118,6014,652,2
+2010-01-01,6,Gràcia,29,el Coll,118,6015,702,1
+2010-01-01,6,Gràcia,29,el Coll,118,6015,665,2
+2010-01-01,6,Gràcia,29,el Coll,118,6016,801,1
+2010-01-01,6,Gràcia,29,el Coll,118,6016,740,2
+2010-01-01,6,Gràcia,29,el Coll,118,6017,660,1
+2010-01-01,6,Gràcia,29,el Coll,118,6017,602,2
+2010-01-01,6,Gràcia,30,la Salut,119,6018,726,1
+2010-01-01,6,Gràcia,30,la Salut,119,6018,612,2
+2010-01-01,6,Gràcia,30,la Salut,119,6019,808,1
+2010-01-01,6,Gràcia,30,la Salut,119,6019,697,2
+2010-01-01,6,Gràcia,30,la Salut,119,6020,591,1
+2010-01-01,6,Gràcia,30,la Salut,119,6020,526,2
+2010-01-01,6,Gràcia,30,la Salut,119,6021,752,1
+2010-01-01,6,Gràcia,30,la Salut,119,6021,653,2
+2010-01-01,6,Gràcia,30,la Salut,120,6022,721,1
+2010-01-01,6,Gràcia,30,la Salut,120,6022,635,2
+2010-01-01,6,Gràcia,30,la Salut,120,6023,723,1
+2010-01-01,6,Gràcia,30,la Salut,120,6023,625,2
+2010-01-01,6,Gràcia,30,la Salut,120,6024,914,1
+2010-01-01,6,Gràcia,30,la Salut,120,6024,710,2
+2010-01-01,6,Gràcia,30,la Salut,120,6025,769,1
+2010-01-01,6,Gràcia,30,la Salut,120,6025,618,2
+2010-01-01,6,Gràcia,30,la Salut,120,6026,560,1
+2010-01-01,6,Gràcia,30,la Salut,120,6026,449,2
+2010-01-01,6,Gràcia,30,la Salut,120,6027,662,1
+2010-01-01,6,Gràcia,30,la Salut,120,6027,575,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,696,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,639,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,673,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,563,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,771,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,596,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,661,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,514,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,614,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,561,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,720,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,609,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,712,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,542,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,566,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,456,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,787,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,533,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,599,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,513,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,786,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,632,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,875,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,718,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,936,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,710,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,889,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,699,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,906,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,723,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,670,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,567,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,751,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,680,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,703,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,569,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,618,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,516,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,1057,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,1739,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,1063,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,895,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,574,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,471,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,700,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,551,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,718,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,569,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,875,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,713,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,809,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,687,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,889,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,768,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,790,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,637,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,886,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,768,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,821,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,728,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,927,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,757,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,852,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,709,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,1025,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,886,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,724,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,605,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,707,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,602,2
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,831,1
+2010-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,708,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,1023,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,876,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,638,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,531,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,593,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,444,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,1010,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,828,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,841,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,648,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,600,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,520,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,1053,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,869,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,538,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,503,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,883,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,744,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,757,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,662,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,564,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,470,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,594,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,513,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,675,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,650,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,720,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,603,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,680,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,590,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,607,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,524,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,642,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,564,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,728,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,586,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,946,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,784,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,932,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,816,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,803,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,669,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,692,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,547,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,520,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,427,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,1048,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,904,2
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,677,1
+2010-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,594,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,931,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,741,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,585,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,510,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,732,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,636,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,828,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,677,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,779,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,689,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,565,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,469,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,774,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,610,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,734,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,694,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,670,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,518,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,707,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,597,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,644,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,546,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,854,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,769,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,657,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,592,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,513,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,458,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,765,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,657,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,647,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,641,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,909,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,725,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,940,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,741,2
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,812,1
+2010-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,703,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,843,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,711,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,549,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,516,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,623,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,554,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,702,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,661,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,772,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,660,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,769,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,670,2
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,589,1
+2010-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,505,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,1073,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,903,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,741,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,678,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,676,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,666,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,716,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,606,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,763,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,737,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,638,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,636,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,739,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,686,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,735,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,667,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,924,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,778,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,746,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,621,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,799,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,661,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,738,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,629,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,824,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,707,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,769,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,644,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,758,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,590,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,780,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,656,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,733,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,648,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,737,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,615,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,793,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,692,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,728,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,637,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,742,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,667,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,671,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,598,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,651,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,563,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,614,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,539,2
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,959,1
+2010-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,798,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,696,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,604,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,784,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,716,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,805,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,722,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,609,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,559,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,615,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,593,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,776,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,701,2
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,713,1
+2010-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,688,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,695,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,661,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,976,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,935,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,631,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,660,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,637,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,566,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,752,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,722,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,887,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,839,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,922,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,893,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,954,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,900,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,814,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,757,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,653,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,582,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,735,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,713,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,739,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,684,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,720,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,671,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,699,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,631,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,640,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,519,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,888,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,819,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,618,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,618,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,687,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,634,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,702,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,683,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,686,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,660,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,764,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,688,2
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,888,1
+2010-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,815,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,1097,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,1033,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,663,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,634,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,661,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,618,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,667,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,650,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,677,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,657,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,754,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,704,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,862,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,812,2
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,680,1
+2010-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,658,2
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,754,1
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,641,2
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,713,1
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,720,2
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,633,1
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,574,2
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,786,1
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,686,2
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,834,1
+2010-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,780,2
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7094,691,1
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7094,543,2
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7095,842,1
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7095,706,2
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7096,777,1
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7096,669,2
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7097,602,1
+2010-01-01,7,Horta-Guinardó,40,Montbau,151,7097,420,2
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,973,1
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,860,2
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,607,1
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,565,2
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,622,1
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,578,2
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,732,1
+2010-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,668,2
+2010-01-01,7,Horta-Guinardó,42,la Clota,153,7102,214,1
+2010-01-01,7,Horta-Guinardó,42,la Clota,153,7102,239,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7103,777,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7103,724,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7104,827,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7104,763,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7105,573,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7105,541,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7106,590,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7106,527,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7107,666,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7107,573,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7108,646,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7108,618,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7109,896,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7109,836,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7110,622,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7110,435,2
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7111,505,1
+2010-01-01,7,Horta-Guinardó,43,Horta,154,7111,446,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7112,659,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7112,560,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7113,596,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7113,560,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7114,638,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7114,529,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7115,594,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7115,505,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7116,798,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7116,727,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7117,868,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7117,1610,2
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7118,679,1
+2010-01-01,7,Horta-Guinardó,43,Horta,155,7118,550,2
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7119,661,1
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7119,544,2
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7120,677,1
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7120,574,2
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7121,647,1
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7121,551,2
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7122,722,1
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7122,579,2
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7123,737,1
+2010-01-01,7,Horta-Guinardó,43,Horta,156,7123,641,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,675,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,635,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,688,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,600,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,663,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,596,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,761,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,653,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,636,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,568,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,808,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,694,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,698,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,556,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,836,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,758,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,889,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,770,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,600,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,505,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,629,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,538,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,739,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,592,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,621,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,530,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,659,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,546,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,784,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,658,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,623,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,509,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,690,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,645,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,814,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,704,2
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,954,1
+2010-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,811,2
+2010-01-01,8,Nou Barris,45,Porta,161,8020,691,1
+2010-01-01,8,Nou Barris,45,Porta,161,8020,555,2
+2010-01-01,8,Nou Barris,45,Porta,161,8021,788,1
+2010-01-01,8,Nou Barris,45,Porta,161,8021,681,2
+2010-01-01,8,Nou Barris,45,Porta,161,8022,681,1
+2010-01-01,8,Nou Barris,45,Porta,161,8022,603,2
+2010-01-01,8,Nou Barris,45,Porta,161,8023,725,1
+2010-01-01,8,Nou Barris,45,Porta,161,8023,655,2
+2010-01-01,8,Nou Barris,45,Porta,161,8024,738,1
+2010-01-01,8,Nou Barris,45,Porta,161,8024,626,2
+2010-01-01,8,Nou Barris,45,Porta,161,8025,663,1
+2010-01-01,8,Nou Barris,45,Porta,161,8025,539,2
+2010-01-01,8,Nou Barris,45,Porta,161,8026,669,1
+2010-01-01,8,Nou Barris,45,Porta,161,8026,549,2
+2010-01-01,8,Nou Barris,45,Porta,162,8027,614,1
+2010-01-01,8,Nou Barris,45,Porta,162,8027,576,2
+2010-01-01,8,Nou Barris,45,Porta,162,8028,580,1
+2010-01-01,8,Nou Barris,45,Porta,162,8028,555,2
+2010-01-01,8,Nou Barris,45,Porta,162,8029,760,1
+2010-01-01,8,Nou Barris,45,Porta,162,8029,688,2
+2010-01-01,8,Nou Barris,45,Porta,162,8030,716,1
+2010-01-01,8,Nou Barris,45,Porta,162,8030,688,2
+2010-01-01,8,Nou Barris,45,Porta,163,8031,673,1
+2010-01-01,8,Nou Barris,45,Porta,163,8031,601,2
+2010-01-01,8,Nou Barris,45,Porta,163,8032,718,1
+2010-01-01,8,Nou Barris,45,Porta,163,8032,614,2
+2010-01-01,8,Nou Barris,45,Porta,163,8033,763,1
+2010-01-01,8,Nou Barris,45,Porta,163,8033,669,2
+2010-01-01,8,Nou Barris,45,Porta,163,8034,631,1
+2010-01-01,8,Nou Barris,45,Porta,163,8034,515,2
+2010-01-01,8,Nou Barris,45,Porta,163,8035,1038,1
+2010-01-01,8,Nou Barris,45,Porta,163,8035,1683,2
+2010-01-01,8,Nou Barris,45,Porta,163,8036,766,1
+2010-01-01,8,Nou Barris,45,Porta,163,8036,697,2
+2010-01-01,8,Nou Barris,45,Porta,163,8037,765,1
+2010-01-01,8,Nou Barris,45,Porta,163,8037,696,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,795,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,675,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,829,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,701,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,830,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,735,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1315,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1180,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,672,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,580,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,622,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,454,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,687,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,622,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,882,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,804,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,753,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,626,2
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,825,1
+2010-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,752,2
+2010-01-01,8,Nou Barris,47,Can Peguera,166,8048,548,1
+2010-01-01,8,Nou Barris,47,Can Peguera,166,8048,485,2
+2010-01-01,8,Nou Barris,47,Can Peguera,166,8049,633,1
+2010-01-01,8,Nou Barris,47,Can Peguera,166,8049,549,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8050,768,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8050,701,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8051,678,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8051,618,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8052,498,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8052,417,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8053,579,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8053,541,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8054,928,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8054,802,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8055,996,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8055,888,2
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8215,744,1
+2010-01-01,8,Nou Barris,48,la Guineueta,167,8215,656,2
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8056,785,1
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8056,724,2
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8057,709,1
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8057,599,2
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8058,904,1
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8058,740,2
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8059,526,1
+2010-01-01,8,Nou Barris,48,la Guineueta,168,8059,498,2
+2010-01-01,8,Nou Barris,49,Canyelles,169,8060,682,1
+2010-01-01,8,Nou Barris,49,Canyelles,169,8060,613,2
+2010-01-01,8,Nou Barris,49,Canyelles,169,8061,891,1
+2010-01-01,8,Nou Barris,49,Canyelles,169,8061,840,2
+2010-01-01,8,Nou Barris,49,Canyelles,169,8062,662,1
+2010-01-01,8,Nou Barris,49,Canyelles,169,8062,634,2
+2010-01-01,8,Nou Barris,49,Canyelles,169,8063,622,1
+2010-01-01,8,Nou Barris,49,Canyelles,169,8063,573,2
+2010-01-01,8,Nou Barris,49,Canyelles,169,8064,935,1
+2010-01-01,8,Nou Barris,49,Canyelles,169,8064,853,2
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8065,812,1
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8065,829,2
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8066,873,1
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8066,859,2
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8067,817,1
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8067,837,2
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8068,959,1
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8068,899,2
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8069,758,1
+2010-01-01,8,Nou Barris,50,les Roquetes,170,8069,755,2
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8070,743,1
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8070,705,2
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8071,858,1
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8071,848,2
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8072,636,1
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8072,586,2
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8073,894,1
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8073,849,2
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8074,751,1
+2010-01-01,8,Nou Barris,50,les Roquetes,171,8074,724,2
+2010-01-01,8,Nou Barris,51,Verdun,172,8075,930,1
+2010-01-01,8,Nou Barris,51,Verdun,172,8075,814,2
+2010-01-01,8,Nou Barris,51,Verdun,172,8076,820,1
+2010-01-01,8,Nou Barris,51,Verdun,172,8076,731,2
+2010-01-01,8,Nou Barris,51,Verdun,172,8077,783,1
+2010-01-01,8,Nou Barris,51,Verdun,172,8077,706,2
+2010-01-01,8,Nou Barris,51,Verdun,173,8078,845,1
+2010-01-01,8,Nou Barris,51,Verdun,173,8078,725,2
+2010-01-01,8,Nou Barris,51,Verdun,173,8079,716,1
+2010-01-01,8,Nou Barris,51,Verdun,173,8079,670,2
+2010-01-01,8,Nou Barris,51,Verdun,173,8080,757,1
+2010-01-01,8,Nou Barris,51,Verdun,173,8080,695,2
+2010-01-01,8,Nou Barris,51,Verdun,173,8081,790,1
+2010-01-01,8,Nou Barris,51,Verdun,173,8081,686,2
+2010-01-01,8,Nou Barris,51,Verdun,173,8082,875,1
+2010-01-01,8,Nou Barris,51,Verdun,173,8082,772,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8083,672,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8083,631,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8084,596,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8084,554,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8085,790,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8085,753,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8086,886,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,174,8086,824,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8087,674,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8087,603,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8088,654,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8088,614,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8089,642,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8089,637,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8090,633,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8090,579,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8091,606,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,175,8091,603,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8092,507,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8092,489,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8093,644,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8093,617,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8094,783,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8094,755,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8095,577,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,176,8095,529,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8096,739,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8096,687,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8097,714,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8097,665,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8098,648,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8098,576,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8099,699,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8099,668,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8100,663,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8100,551,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8101,955,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8101,830,2
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8102,686,1
+2010-01-01,8,Nou Barris,52,la Prosperitat,177,8102,641,2
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,804,1
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,751,2
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,708,1
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,572,2
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,839,1
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,786,2
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,904,1
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,829,2
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,875,1
+2010-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,809,2
+2010-01-01,8,Nou Barris,54,Torre Baró,179,8108,561,1
+2010-01-01,8,Nou Barris,54,Torre Baró,179,8108,558,2
+2010-01-01,8,Nou Barris,54,Torre Baró,179,8109,505,1
+2010-01-01,8,Nou Barris,54,Torre Baró,179,8109,540,2
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,976,1
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,1059,2
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,827,1
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,875,2
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,854,1
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,880,2
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,857,1
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,902,2
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,929,1
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,981,2
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,838,1
+2010-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,882,2
+2010-01-01,8,Nou Barris,56,Vallbona,181,8116,686,1
+2010-01-01,8,Nou Barris,56,Vallbona,181,8116,650,2
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1211,1
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1541,2
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,1034,1
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,1212,2
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,1016,1
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,1071,2
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,882,1
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,864,2
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,717,1
+2010-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,727,2
+2010-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,616,1
+2010-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,575,2
+2010-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,614,1
+2010-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,587,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,858,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,887,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,687,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,677,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,767,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,724,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,1260,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,1247,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,949,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,919,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,1134,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,1893,2
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,890,1
+2010-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,917,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,739,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,692,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,756,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,693,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,762,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,720,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1130,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1086,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,624,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,532,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,709,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,672,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,623,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,574,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,614,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,561,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,589,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,553,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,628,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,583,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,793,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,713,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,702,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,638,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,774,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,752,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,646,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,592,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,770,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,633,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,587,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,524,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,764,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,677,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1493,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1386,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,741,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,710,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,827,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,771,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,790,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,713,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,767,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,609,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,833,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,726,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,836,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,760,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,798,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,644,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,773,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,653,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,665,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,577,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,710,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,643,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,767,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,686,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,733,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,684,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,706,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,632,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,765,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,694,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,723,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,638,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,739,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,635,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,893,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,740,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,649,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,568,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,639,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,549,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,785,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,647,2
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,620,1
+2010-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,516,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9055,913,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9055,771,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9056,683,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9056,573,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9057,875,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9057,752,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9058,706,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9058,636,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9059,691,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9059,635,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9060,708,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9060,606,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9156,680,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,193,9156,610,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,194,9061,894,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,194,9061,808,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,194,9062,568,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,194,9062,552,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9063,583,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9063,581,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9064,685,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9064,620,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9065,1088,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9065,988,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9066,680,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9066,605,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9067,720,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,195,9067,634,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9068,780,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9068,730,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9069,506,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9069,405,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9070,956,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9070,887,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9071,976,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9071,839,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9072,774,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9072,661,2
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9073,798,1
+2010-01-01,9,Sant Andreu,61,la Sagrera,196,9073,725,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,907,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,719,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,789,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,642,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,757,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,616,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,854,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,682,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,767,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,687,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,862,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,739,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,731,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,671,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,919,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,788,2
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,994,1
+2010-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,829,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9083,831,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9083,737,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9084,897,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9084,746,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9085,888,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9085,764,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9086,755,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9086,660,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9087,672,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9087,589,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9088,962,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9088,815,2
+2010-01-01,9,Sant Andreu,63,Navas,199,9089,811,1
+2010-01-01,9,Sant Andreu,63,Navas,199,9089,664,2
+2010-01-01,9,Sant Andreu,63,Navas,200,9090,833,1
+2010-01-01,9,Sant Andreu,63,Navas,200,9090,773,2
+2010-01-01,9,Sant Andreu,63,Navas,200,9091,986,1
+2010-01-01,9,Sant Andreu,63,Navas,200,9091,899,2
+2010-01-01,9,Sant Andreu,63,Navas,200,9092,1086,1
+2010-01-01,9,Sant Andreu,63,Navas,200,9092,995,2
+2010-01-01,9,Sant Andreu,63,Navas,200,9093,732,1
+2010-01-01,9,Sant Andreu,63,Navas,200,9093,670,2
+2010-01-01,9,Sant Andreu,63,Navas,200,9094,1069,1
+2010-01-01,9,Sant Andreu,63,Navas,200,9094,945,2
+2010-01-01,9,Sant Andreu,63,Navas,200,9095,1122,1
+2010-01-01,9,Sant Andreu,63,Navas,200,9095,938,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,813,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,773,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,879,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,816,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,735,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,690,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,780,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,667,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,865,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,763,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,977,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,813,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,699,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,662,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,927,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,807,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,893,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,741,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,934,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,809,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,712,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,582,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,954,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,868,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,787,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,670,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,780,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,700,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,964,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,856,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,653,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,625,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,884,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,777,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,720,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,669,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,853,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,758,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,813,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,711,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,729,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,656,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,726,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,599,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,762,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,665,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,760,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,697,2
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,745,1
+2010-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,632,2
+2010-01-01,10,Sant Martí,65,el Clot,205,10026,782,1
+2010-01-01,10,Sant Martí,65,el Clot,205,10026,686,2
+2010-01-01,10,Sant Martí,65,el Clot,205,10027,883,1
+2010-01-01,10,Sant Martí,65,el Clot,205,10027,820,2
+2010-01-01,10,Sant Martí,65,el Clot,205,10028,960,1
+2010-01-01,10,Sant Martí,65,el Clot,205,10028,851,2
+2010-01-01,10,Sant Martí,65,el Clot,205,10029,800,1
+2010-01-01,10,Sant Martí,65,el Clot,205,10029,747,2
+2010-01-01,10,Sant Martí,65,el Clot,205,10030,943,1
+2010-01-01,10,Sant Martí,65,el Clot,205,10030,818,2
+2010-01-01,10,Sant Martí,65,el Clot,205,10031,818,1
+2010-01-01,10,Sant Martí,65,el Clot,205,10031,768,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10032,759,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10032,704,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10033,525,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10033,433,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10034,926,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10034,873,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10035,1041,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10035,1016,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10036,731,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10036,707,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10037,557,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10037,525,2
+2010-01-01,10,Sant Martí,65,el Clot,206,10234,1050,1
+2010-01-01,10,Sant Martí,65,el Clot,206,10234,972,2
+2010-01-01,10,Sant Martí,65,el Clot,207,10038,847,1
+2010-01-01,10,Sant Martí,65,el Clot,207,10038,831,2
+2010-01-01,10,Sant Martí,65,el Clot,207,10039,906,1
+2010-01-01,10,Sant Martí,65,el Clot,207,10039,803,2
+2010-01-01,10,Sant Martí,65,el Clot,207,10040,970,1
+2010-01-01,10,Sant Martí,65,el Clot,207,10040,896,2
+2010-01-01,10,Sant Martí,65,el Clot,207,10041,787,1
+2010-01-01,10,Sant Martí,65,el Clot,207,10041,762,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,819,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,725,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,742,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,742,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,771,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,722,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,669,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,561,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,662,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,619,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,950,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,839,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,847,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,757,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,705,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,669,2
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,902,1
+2010-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,770,2
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,828,1
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,774,2
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,1144,1
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,1149,2
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,918,1
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,914,2
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,514,1
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,475,2
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1273,1
+2010-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1259,2
+2010-01-01,10,Sant Martí,68,el Poblenou,212,10056,869,1
+2010-01-01,10,Sant Martí,68,el Poblenou,212,10056,822,2
+2010-01-01,10,Sant Martí,68,el Poblenou,212,10057,659,1
+2010-01-01,10,Sant Martí,68,el Poblenou,212,10057,610,2
+2010-01-01,10,Sant Martí,68,el Poblenou,212,10058,532,1
+2010-01-01,10,Sant Martí,68,el Poblenou,212,10058,519,2
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10059,718,1
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10059,667,2
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10060,775,1
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10060,789,2
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10061,840,1
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10061,760,2
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10062,744,1
+2010-01-01,10,Sant Martí,68,el Poblenou,213,10062,682,2
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10063,658,1
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10063,654,2
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10064,793,1
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10064,757,2
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10065,781,1
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10065,746,2
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10066,1043,1
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10066,949,2
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10067,890,1
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10067,868,2
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10068,732,1
+2010-01-01,10,Sant Martí,68,el Poblenou,214,10068,777,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10069,905,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10069,866,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10070,870,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10070,798,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10071,883,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10071,892,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10072,984,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10072,979,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10073,780,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10073,697,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10074,858,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10074,781,2
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10075,732,1
+2010-01-01,10,Sant Martí,68,el Poblenou,215,10075,725,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,436,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,414,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,707,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,658,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,887,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,760,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,825,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,806,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,1052,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,978,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,923,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,847,2
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,950,1
+2010-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,1021,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,853,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,836,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,868,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,1068,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,879,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,1325,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,820,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,765,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,956,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,1084,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,921,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,934,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,935,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,914,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,826,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,788,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,1093,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,1806,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,724,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,653,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,997,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,960,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,862,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,790,2
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,587,1
+2010-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,554,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,1122,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,1116,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,536,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,501,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,792,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,692,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,771,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,685,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,998,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,912,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,541,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,488,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,843,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,721,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,627,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,609,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1362,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1315,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1194,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1140,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,914,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,872,2
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,452,1
+2010-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,391,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1166,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1055,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,562,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,506,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,754,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,720,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,743,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,684,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,805,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,678,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,881,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,752,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,683,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,601,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,828,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,794,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,593,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,526,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,770,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,625,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,774,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,685,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,990,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,910,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,719,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,633,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,526,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,471,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,615,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,523,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,799,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,638,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,821,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,714,2
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,838,1
+2010-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,772,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,742,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,695,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,564,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,534,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,579,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,566,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,558,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,551,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,526,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,486,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,915,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,788,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,670,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,622,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,627,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,562,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,662,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,569,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,626,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,579,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,914,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,846,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,820,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,708,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,661,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,603,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,740,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,698,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,833,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,814,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,835,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,764,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,859,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,831,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,872,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,738,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,599,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,553,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,876,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,760,2
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,898,1
+2010-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,817,2
